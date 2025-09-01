@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#0B0F1A</color>
+    <color name="card_dark">#101529</color>
+    <color name="text_primary">#E8ECF8</color>
+    <color name="accent_blue">#5DB6FF</color>
+    <color name="accent_green">#00E0A4</color>
+    <color name="danger">#FF5D7A</color>
+</resources>
